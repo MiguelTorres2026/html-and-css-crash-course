@@ -1,4 +1,4 @@
-body, ul, li, h1, h2, a{
+/* body, ul, li, h1, h2, a{
   margin: 0;
   padding: 0;
   font-family: tahoma;
@@ -138,7 +138,7 @@ footer{
 
 /* responsive styles */
 
-@media screen and (max-width: 1400px){
+/* @media screen and (max-width: 1400px){
 
   .banner .welcome{
     font-size: 40px;
@@ -208,4 +208,4 @@ footer{
   }
   
 
-}
+} */ 
