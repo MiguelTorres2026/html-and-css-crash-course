@@ -30,7 +30,7 @@ li{
     text-shadow: 2px 2px #00ffd5; */
 /* } */
 
-span{
+/* span{
     margin: 20px;
     display: inline-block;
     padding: 20px;
@@ -38,7 +38,40 @@ span{
 
 div{
     /* display: inline; */
-    border: 2px solid crimson;
+    /* border: 2px solid crimson;
     margin: 20px;
     padding: 20px;
+} */ 
+/* 
+p.error{
+    color: red;
+}
+
+ p.success{
+    color: #4fdb4f;
+ }
+
+ p.success.feedback{
+    border: 1px dashed #4fdb4f; 
+}
+
+div#content{
+    background-color: #ebebeb;
+    padding: 20px;
+} */
+/* 
+div .error{
+    color: red;
+} */
+a[href*="thenetninja"]{
+    background-color: #3dd133;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+a[href$=".com"]{
+    color: white;
+    background: red;
+    border: 2px solid blue;
 }
